@@ -16,4 +16,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## License
 
 This project is licensed under the GPL 3.0 License - see the [LICENSE.md](LICENSE.md) file for details
-!License(https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
+![License](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
