@@ -8,8 +8,8 @@ It's a simple 2D game engine. It's core is written in C++ by Gabriel Kaszewski a
 
 ## Authors
 
-* **Gabriel Kaszewski** - *Engine Core* - [NitrosPL](https://github.com/NitrosPL)
-* **Szymon Miś** - *Engine Editor* - [MrSpecjal](https://github.com/MrSpecjal)
+* **Gabriel Kaszewski** - [Nitroś](https://github.com/GKaszewski)
+* **Szymon Miś** - [MrSpecjal](https://github.com/MrSpecjal)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
